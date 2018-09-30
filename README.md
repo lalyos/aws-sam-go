@@ -1,6 +1,8 @@
-# sam-app
+# chatops - sam
 
-This is a sample template for sam-app - Below is a brief explanation of what we have generated for you:
+This is an AWS lambda (SAM) created with `sam init`.
+It queries all running ec2 instances, and posts the result to a gitter room.
+chatops first steps ...
 
 ```bash
 .
